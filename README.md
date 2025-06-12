@@ -50,18 +50,6 @@ The framework supports the following finger vein datasets:
 | FedProx | 81.24% | 78.93% | 64.52% | 75.84% |
 | **FedRDA** | **87.65%** | **84.53%** | **72.13%** | **83.87%** |
 
-## 📄 Citation
-
-If you find this work useful for your research, please cite:
-
-```bibtex
-@article{xie2023fedrda,
-  title={FedRDA: Hierarchical Noise Detection for Federated Finger Vein Recognition},
-  author={Xie, Yuchen and Ren, Hengyi and He, Hanyu and Fei, Shurui and Guo, Jian and Sun, Lijuan},
-  journal={Journal of LaTeX Class Files},
-  year={2023}
-}
-```
 
 ## 🤝 Contributing
 
